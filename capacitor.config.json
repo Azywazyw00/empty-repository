@@ -1,0 +1,9 @@
+{
+  "appId": "com.gogledd.welshapp",
+  "appName": "Gogledd",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

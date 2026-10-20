@@ -1,0 +1,227 @@
+[
+  {
+    "id": "unit-1",
+    "title": "Cyflwyniadau",
+    "subtitle": "Greetings & Everyday Pleasantries",
+    "level": "Mynediad (Beginner)",
+    "description": "Master natural North Welsh greetings, departures, and asking how people are doing.",
+    "phrases": [
+      {
+        "id": "p1-1",
+        "welsh": "Bore da!",
+        "english": "Good morning!",
+        "phonetic": "BOH-reh DAH",
+        "notes": "Standard morning greeting used universally across Wales.",
+        "dialectFocus": "Universal",
+        "audioSpeed": 0.9
+      },
+      {
+        "id": "p1-2",
+        "welsh": "Sut wyt ti?",
+        "english": "How are you? (Informal)",
+        "phonetic": "Sit oot tee?",
+        "notes": "Often contracted casually in the North to 'Sut ti?' or 'Su'mai?'.",
+        "dialectFocus": "Casual North",
+        "audioSpeed": 0.9
+      },
+      {
+        "id": "p1-3",
+        "welsh": "Iawn, diolch. A chithau?",
+        "english": "Fine, thanks. And you? (Polite)",
+        "phonetic": "YOWN, DEE-olkh. Ah KHEETH-eye?",
+        "notes": "Notice the 'ch' sound in 'chithau'—aspirated voiceless velar fricative like Scottish 'loch'.",
+        "dialectFocus": "North Polite",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p1-4",
+        "welsh": "Fy enw i ydy...",
+        "english": "My name is...",
+        "phonetic": "Vuh EH-noo ee UH-dee...",
+        "notes": "In North Wales 'ydy' is typically used for 'is' where South Wales frequently uses 'yw'.",
+        "dialectFocus": "Gogledd marker (ydy vs yw)",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p1-5",
+        "welsh": "Da boch chi!",
+        "english": "Goodbye! (Polite/Formal)",
+        "phonetic": "DAH BOKH khee!",
+        "notes": "Traditional North Welsh farewell, shortened from 'Duw a fo gyda chwi'.",
+        "dialectFocus": "Traditional North",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p1-6",
+        "welsh": "Hwyl rŵan!",
+        "english": "Bye for now!",
+        "phonetic": "HOO-eel ROO-an!",
+        "notes": "Features 'rŵan' (now), the quintessential Northern indicator.",
+        "dialectFocus": "Gogledd marker (rŵan vs nawr)",
+        "audioSpeed": 0.9
+      }
+    ]
+  },
+  {
+    "id": "unit-2",
+    "title": "Cymraeg y Gogledd",
+    "subtitle": "Key Northern Dialect Words",
+    "level": "Sylfaen (Core Dialect)",
+    "description": "Learn the hallmark Northern words that instantly distinguish Gogledd speech from the South.",
+    "phrases": [
+      {
+        "id": "p2-1",
+        "welsh": "Be' ti'n wneud rŵan?",
+        "english": "What are you doing now?",
+        "phonetic": "BEH teen WNAYD ROO-an?",
+        "notes": "'Be'' is short for 'Beth'. 'Rŵan' is exclusively North Welsh (Southern: 'nawr').",
+        "dialectFocus": "rŵan (now) vs nawr",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p2-2",
+        "welsh": "Dw i'n mynd efo fo.",
+        "english": "I am going with him.",
+        "phonetic": "DOO een MIND EH-voh VOH.",
+        "notes": "'Efo' means 'with' (Southern: 'gyda'). 'Fo' means 'him' (Southern: 'fe').",
+        "dialectFocus": "efo (with) vs gyda, fo vs fe",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p2-3",
+        "welsh": "Wyt ti'n dallt?",
+        "english": "Do you understand?",
+        "phonetic": "OOT teen DAH-llt?",
+        "notes": "'Dallt' is the common Northern verb for understand (Southern: 'deall'). Notice the final 'll' sound.",
+        "dialectFocus": "dallt vs deall",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p2-4",
+        "welsh": "Dw i ddim yn dallt o.",
+        "english": "I don't understand it/him.",
+        "phonetic": "DOO ee THEEM un DAH-llt oh.",
+        "notes": "'O' is used in the North for both 'him' and masculine 'it' where the South uses 'e'.",
+        "dialectFocus": "o vs e",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p2-5",
+        "welsh": "Lle wyt ti'n byw?",
+        "english": "Where do you live?",
+        "phonetic": "LLEH oot teen BEW?",
+        "notes": "North Wales often uses 'Lle' directly for 'Where' instead of 'Ble'.",
+        "dialectFocus": "Lle vs Ble",
+        "audioSpeed": 0.9
+      },
+      {
+        "id": "p2-6",
+        "welsh": "Mae hi'n bwrw glaw rŵan.",
+        "english": "It is raining now.",
+        "phonetic": "MY heen BOO-roo GLOW ROO-an.",
+        "notes": "A daily weather phrase featuring Northern 'rŵan'.",
+        "dialectFocus": "Everyday Conversation",
+        "audioSpeed": 0.9
+      }
+    ]
+  },
+  {
+    "id": "unit-3",
+    "title": "Anghenion a Dymuniadau",
+    "subtitle": "Wants, Needs & Having",
+    "level": "Canolradd (Practical Speaking)",
+    "description": "Expressing desire and possession using Northern idioms like 'isio', 'paned', and 'gen i'.",
+    "phrases": [
+      {
+        "id": "p3-1",
+        "welsh": "Dw i isio paned o de.",
+        "english": "I want a cup of tea.",
+        "phonetic": "DOO ee EES-yoh PAH-ned oh DEH.",
+        "notes": "'Isio' (want) is the classic Northern spoken form. 'Paned' is Northern for a cuppa (South: 'dishgled').",
+        "dialectFocus": "isio vs eisiau/moyn, paned vs dishgled",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p3-2",
+        "welsh": "Oes gynnoch chi goffi?",
+        "english": "Do you have coffee? (Polite)",
+        "phonetic": "OYS GUNN-okh khee GOH-fee?",
+        "notes": "Northern possession pattern: 'gynnoch chi' instead of Southern 'gyda chi'.",
+        "dialectFocus": "gynnoch chi vs gyda chi",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p3-3",
+        "welsh": "Oes, mae gen i goffi poeth.",
+        "english": "Yes, I have hot coffee.",
+        "phonetic": "OYS, my GEN ee GOH-fee POYTH.",
+        "notes": "'Mae gen i' (I have) is Northern. The South says 'Mae gyda fi'.",
+        "dialectFocus": "gen i vs gyda fi",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p3-4",
+        "welsh": "Dw i'n dysgu Cymraeg y Gogledd.",
+        "english": "I am learning North Welsh.",
+        "phonetic": "DOO een DUHS-gee kum-RYE-g uh GOG-leth.",
+        "notes": "'Cymraeg y Gogledd' specifically means the Welsh of the North.",
+        "dialectFocus": "Identity & Fluency",
+        "audioSpeed": 0.85
+      },
+      {
+        "id": "p3-5",
+        "welsh": "Mae'n braf cwrdd â chi.",
+        "english": "It's fine/pleasant to meet you.",
+        "phonetic": "MINE BRAHV KOORTH ah khee.",
+        "notes": "'Braf' is frequently used in conversational Welsh for pleasant/fine/lovely.",
+        "dialectFocus": "Everyday Welsh",
+        "audioSpeed": 0.85
+      }
+    ]
+  },
+  {
+    "id": "unit-4",
+    "title": "Labordy Ynganu",
+    "subtitle": "Pronunciation Clinic: Tricky Northern Sounds",
+    "level": "Ynganu (Sound Focus)",
+    "description": "Targeted practice for authentic Welsh sounds: LL, CH, the Northern 'U' vowel, and trilled R.",
+    "phrases": [
+      {
+        "id": "p4-1",
+        "welsh": "Llanfairpwll",
+        "english": "St Mary's church by the pool",
+        "phonetic": "LLAHN-vire-poo-ll",
+        "notes": "The iconic 'LL' sound: place the tip of your tongue firmly against the ridge behind your upper teeth, then gently blow air around the sides without vibrating your vocal cords.",
+        "dialectFocus": "Sound [ɬ] (LL)",
+        "audioSpeed": 0.75
+      },
+      {
+        "id": "p4-2",
+        "welsh": "Chwech o bobl",
+        "english": "Six people",
+        "phonetic": "KHWAYKH oh BAWB-ul",
+        "notes": "Features two 'CH' sounds [x]. Friction is produced at the soft palate / uvula like German 'Bach' or Scottish 'loch'.",
+        "dialectFocus": "Sound [x] (CH)",
+        "audioSpeed": 0.8
+      },
+      {
+        "id": "p4-3",
+        "welsh": "Tŷ ar y bryn",
+        "english": "A house on the hill",
+        "phonetic": "TEE ahr uh BRIN (Northern [ɨ])",
+        "notes": "In North Wales, the letter 'u' (and 'y' in monosyllables like 'tŷ') represents a high central unrounded vowel [ɨ], produced with the tongue slightly further back than English 'ee'.",
+        "dialectFocus": "Vowel [ɨ] (Northern U/Y)",
+        "audioSpeed": 0.8
+      },
+      {
+        "id": "p4-4",
+        "welsh": "Rhedodd y car coch",
+        "english": "The red car ran/sped",
+        "phonetic": "HREH-doth uh KAHR KAWKH",
+        "notes": "Combines a trilled 'r', the voiced dental fricative 'dd' [ð] (like 'th' in 'this'), and final 'ch'.",
+        "dialectFocus": "Sound combination (RH, DD, CH)",
+        "audioSpeed": 0.8
+      }
+    ]
+  }
+]
