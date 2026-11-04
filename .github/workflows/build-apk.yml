@@ -5,6 +5,9 @@ on:
     branches: [ main, master ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-apk:
     name: Build Standalone APK
@@ -34,7 +37,7 @@ jobs:
           distribution: 'temurin'
           java-version: '21'
 
-      - name: Build Release APK
+      - name: Build APK
         run: |
           cd android
           chmod +x gradlew
@@ -46,3 +49,14 @@ jobs:
           name: Gogledd-Welsh-App
           path: android/app/build/outputs/apk/debug/app-debug.apk
           retention-days: 30
+
+      - name: Publish APK as a release (direct phone download)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp android/app/build/outputs/apk/debug/app-debug.apk Gogledd.apk
+          gh release delete latest-apk --yes --cleanup-tag || true
+          gh release create latest-apk Gogledd.apk \
+            --title "Gogledd (latest build)" \
+            --notes "Tap Gogledd.apk below to download, then open it to install." \
+            --latest
